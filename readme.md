@@ -1,29 +1,19 @@
 # Jack in the Box
 
-## Design
+## Arduino Code
 
-Please put your sketches or designs for the Jack in the Box.
-
-
-
-## Laser Cutting
-
-**a. Include a photo of your box here.**
-**b. Include `.stl` files.**
+[Rei_Arduino Code](//github.com/wendy039474/IDD-Fa19-Lab5/blob/master/Rei_JackInABox.ino)
 
 
-## 3D Printing
+## Jack Design
 
-**a. Include a photo of your printed part here.**
-**b. Include `.stl` or `.svg` files if you made modifications.**
+[Rei_Jack_Baymax](//github.com/wendy039474/IDD-Fa19-Lab5/blob/master/Rei_Jack_Baymax.stl)
 
-## Electronics
+## Photo of Box
 
-**a. Upload code & a photo of your electronic circuit here.**
+<img src="/Rei_JackintheBox Design.jpeg">
 
-## Putting it All Together
+## Video
 
-Include here:
-1. Your Arduino code.
-1. At least one photo of your Jack in the Box taken in the MakerLab's Portable Photo Studio (or somewhere else, but of similar quality).
-1. A video of your Jack in the Box in action.
+[Rei_Jack in the Box](//youtu.be/7xPDQrdJ0AE)
+
